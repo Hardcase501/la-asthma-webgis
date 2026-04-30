@@ -1,0 +1,16 @@
+{
+  "name": "LA Asthma Map",
+  "short_name": "AsthmaMap",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#222222",
+  "description": "Responsive web map and histogram of adult asthma prevalence in Los Angeles County.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
